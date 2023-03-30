@@ -1,0 +1,172 @@
+/***************** TAG SELECTORS ****************/
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    }
+
+h1 {
+    color: #19376D;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px auto 0px auto;
+    line-height: 0.5;
+
+    }
+
+h2 {
+    color: #19376D;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 0px auto auto auto;
+
+    }
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #576CBC;
+    }
+
+hr {
+    background-color: none;
+    border-style: none;
+    border-top: 8px dotted #B2B2B2;
+    margin: 80px auto 80px auto;
+    width: 4%;
+    }
+
+/***************** CLASS SELECTORS ****************/
+.top-container {
+    background-color: #8EA7E9;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    }
+
+.middle-container {
+    background-color: #FFF4E0;
+    padding-bottom: 60px;
+    }
+
+.bottom-container {
+    background-color: #FFF4E0;
+    }
+
+.snapshot {
+    color: #19376D;
+    }
+
+.angkor-wat {
+    margin: 40px auto 0 auto;
+    height: 350px;
+    width: 400px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    }
+
+.flag {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 660px;
+    top: 450px;
+    }
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+    }
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+    }
+
+.avatar {
+    background-image: none;
+    margin: 40px auto auto auto;
+    width: 10%;
+    }
+
+.headings {
+    font-size: 2rem;
+    }
+
+.skill-row {
+    line-height: 2;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    width: 50%;
+    }
+
+.data-analytics-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    }
+
+.hokstutoring-img {
+    float: right;
+    margin-right: 30px;
+    width: 25%;
+    }
+
+.football-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    }
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 40px auto;
+    }
+
+.btn {
+  background: #19376D;
+  background-image: -webkit-linear-gradient(top, #19376D, #0B2447);
+  background-image: -moz-linear-gradient(top, #19376D, #0B2447);
+  background-image: -ms-linear-gradient(top, #19376D, #0B2447);
+  background-image: -o-linear-gradient(top, #19376D, #0B2447);
+  background-image: linear-gradient(to bottom, #19376D, #0B2447);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #769FCD;
+  background-image: -webkit-linear-gradient(top, #769FCD, #19376D);
+  background-image: -moz-linear-gradient(top, #769FCD, #19376D);
+  background-image: -ms-linear-gradient(top, #769FCD, #19376D);
+  background-image: -o-linear-gradient(top, #769FCD, #19376D);
+  background-image: linear-gradient(to bottom, #769FCD, #19376D);
+  text-decoration: none;
+}
+
+.footer-link {
+    color: #0B2447;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    text-decoration-line: underline;
+    }
+
+.footer-link:hover {
+    color: #EAF6F6;
+    }
+
+.copyright {
+    color: #0B2447;
+    font-size: 0.75rem;
+    }
